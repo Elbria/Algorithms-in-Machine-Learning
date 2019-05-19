@@ -14,7 +14,7 @@ The repo includes implementations for the following online boosting algorithms (
 4. OSBoost with Expert Advice (EXPBoost), again from [Chen et al.](http://ntur.lib.ntu.edu.tw/retrieve/188503/07.pdf)
 5. OSBoost with Online Convex Programming (OCPBoost), again from [Chen et al.](http://ntur.lib.ntu.edu.tw/retrieve/188503/07.pdf)
 
-Implementations of the more recent online boosting algorithm with theoretical guarantees are implemented:
+Implementations of the more recent online boosting algorithms with theoretical guarantees are included:
 
 `6.` Online Boost-By-Majority (OnlineBBM), from [Beygelzimer et al.](https://arxiv.org/pdf/1502.02651.pdf)
 
